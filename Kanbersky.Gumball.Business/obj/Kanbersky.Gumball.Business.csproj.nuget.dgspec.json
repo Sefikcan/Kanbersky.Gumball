@@ -1,0 +1,293 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\WorkSpaces\\Back-end\\Caching\\Kanbersky.Gumball\\Kanbersky.Gumball.Business\\Kanbersky.Gumball.Business.csproj": {}
+  },
+  "projects": {
+    "D:\\WorkSpaces\\Back-end\\Caching\\Kanbersky.Gumball\\Kanbersky.Gumball.Business\\Kanbersky.Gumball.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WorkSpaces\\Back-end\\Caching\\Kanbersky.Gumball\\Kanbersky.Gumball.Business\\Kanbersky.Gumball.Business.csproj",
+        "projectName": "Kanbersky.Gumball.Business",
+        "projectPath": "D:\\WorkSpaces\\Back-end\\Caching\\Kanbersky.Gumball\\Kanbersky.Gumball.Business\\Kanbersky.Gumball.Business.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkSpaces\\Back-end\\Caching\\Kanbersky.Gumball\\Kanbersky.Gumball.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\WorkSpaces\\Back-end\\Caching\\Kanbersky.Gumball\\Kanbersky.Gumball.Core\\Kanbersky.Gumball.Core.csproj": {
+                "projectPath": "D:\\WorkSpaces\\Back-end\\Caching\\Kanbersky.Gumball\\Kanbersky.Gumball.Core\\Kanbersky.Gumball.Core.csproj"
+              },
+              "D:\\WorkSpaces\\Back-end\\Caching\\Kanbersky.Gumball\\Kanbersky.Gumball.DAL\\Kanbersky.Gumball.DAL.csproj": {
+                "projectPath": "D:\\WorkSpaces\\Back-end\\Caching\\Kanbersky.Gumball\\Kanbersky.Gumball.DAL\\Kanbersky.Gumball.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.1.30, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\WorkSpaces\\Back-end\\Caching\\Kanbersky.Gumball\\Kanbersky.Gumball.Core\\Kanbersky.Gumball.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WorkSpaces\\Back-end\\Caching\\Kanbersky.Gumball\\Kanbersky.Gumball.Core\\Kanbersky.Gumball.Core.csproj",
+        "projectName": "Kanbersky.Gumball.Core",
+        "projectPath": "D:\\WorkSpaces\\Back-end\\Caching\\Kanbersky.Gumball\\Kanbersky.Gumball.Core\\Kanbersky.Gumball.Core.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkSpaces\\Back-end\\Caching\\Kanbersky.Gumball\\Kanbersky.Gumball.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.9.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Serilog.Sinks.Elasticsearch": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.1.30, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\WorkSpaces\\Back-end\\Caching\\Kanbersky.Gumball\\Kanbersky.Gumball.DAL\\Kanbersky.Gumball.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WorkSpaces\\Back-end\\Caching\\Kanbersky.Gumball\\Kanbersky.Gumball.DAL\\Kanbersky.Gumball.DAL.csproj",
+        "projectName": "Kanbersky.Gumball.DAL",
+        "projectPath": "D:\\WorkSpaces\\Back-end\\Caching\\Kanbersky.Gumball\\Kanbersky.Gumball.DAL\\Kanbersky.Gumball.DAL.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkSpaces\\Back-end\\Caching\\Kanbersky.Gumball\\Kanbersky.Gumball.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\WorkSpaces\\Back-end\\Caching\\Kanbersky.Gumball\\Kanbersky.Gumball.Entities\\Kanbersky.Gumball.Entities.csproj": {
+                "projectPath": "D:\\WorkSpaces\\Back-end\\Caching\\Kanbersky.Gumball\\Kanbersky.Gumball.Entities\\Kanbersky.Gumball.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\WorkSpaces\\Back-end\\Caching\\Kanbersky.Gumball\\Kanbersky.Gumball.Entities\\Kanbersky.Gumball.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WorkSpaces\\Back-end\\Caching\\Kanbersky.Gumball\\Kanbersky.Gumball.Entities\\Kanbersky.Gumball.Entities.csproj",
+        "projectName": "Kanbersky.Gumball.Entities",
+        "projectPath": "D:\\WorkSpaces\\Back-end\\Caching\\Kanbersky.Gumball\\Kanbersky.Gumball.Entities\\Kanbersky.Gumball.Entities.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkSpaces\\Back-end\\Caching\\Kanbersky.Gumball\\Kanbersky.Gumball.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\WorkSpaces\\Back-end\\Caching\\Kanbersky.Gumball\\Kanbersky.Gumball.Core\\Kanbersky.Gumball.Core.csproj": {
+                "projectPath": "D:\\WorkSpaces\\Back-end\\Caching\\Kanbersky.Gumball\\Kanbersky.Gumball.Core\\Kanbersky.Gumball.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

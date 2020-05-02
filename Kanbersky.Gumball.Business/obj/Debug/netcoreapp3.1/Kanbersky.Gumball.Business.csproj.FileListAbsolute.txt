@@ -1,0 +1,16 @@
+D:\WorkSpaces\Back-end\Caching\Kanbersky.Gumball\Kanbersky.Gumball.Business\bin\Debug\netcoreapp3.1\Kanbersky.Gumball.Business.deps.json
+D:\WorkSpaces\Back-end\Caching\Kanbersky.Gumball\Kanbersky.Gumball.Business\bin\Debug\netcoreapp3.1\Kanbersky.Gumball.Business.dll
+D:\WorkSpaces\Back-end\Caching\Kanbersky.Gumball\Kanbersky.Gumball.Business\bin\Debug\netcoreapp3.1\Kanbersky.Gumball.Business.pdb
+D:\WorkSpaces\Back-end\Caching\Kanbersky.Gumball\Kanbersky.Gumball.Business\obj\Debug\netcoreapp3.1\Kanbersky.Gumball.Business.csprojAssemblyReference.cache
+D:\WorkSpaces\Back-end\Caching\Kanbersky.Gumball\Kanbersky.Gumball.Business\obj\Debug\netcoreapp3.1\Kanbersky.Gumball.Business.AssemblyInfoInputs.cache
+D:\WorkSpaces\Back-end\Caching\Kanbersky.Gumball\Kanbersky.Gumball.Business\obj\Debug\netcoreapp3.1\Kanbersky.Gumball.Business.AssemblyInfo.cs
+D:\WorkSpaces\Back-end\Caching\Kanbersky.Gumball\Kanbersky.Gumball.Business\obj\Debug\netcoreapp3.1\Kanbersky.Gumball.Business.dll
+D:\WorkSpaces\Back-end\Caching\Kanbersky.Gumball\Kanbersky.Gumball.Business\obj\Debug\netcoreapp3.1\Kanbersky.Gumball.Business.pdb
+D:\WorkSpaces\Back-end\Caching\Kanbersky.Gumball\Kanbersky.Gumball.Business\bin\Debug\netcoreapp3.1\Kanbersky.Gumball.Core.dll
+D:\WorkSpaces\Back-end\Caching\Kanbersky.Gumball\Kanbersky.Gumball.Business\bin\Debug\netcoreapp3.1\Kanbersky.Gumball.Core.pdb
+D:\WorkSpaces\Back-end\Caching\Kanbersky.Gumball\Kanbersky.Gumball.Business\obj\Debug\netcoreapp3.1\Kanbersky.Gumball.Business.csproj.CopyComplete
+D:\WorkSpaces\Back-end\Caching\Kanbersky.Gumball\Kanbersky.Gumball.Business\bin\Debug\netcoreapp3.1\Kanbersky.Gumball.DAL.dll
+D:\WorkSpaces\Back-end\Caching\Kanbersky.Gumball\Kanbersky.Gumball.Business\bin\Debug\netcoreapp3.1\Kanbersky.Gumball.Entities.dll
+D:\WorkSpaces\Back-end\Caching\Kanbersky.Gumball\Kanbersky.Gumball.Business\bin\Debug\netcoreapp3.1\Kanbersky.Gumball.DAL.pdb
+D:\WorkSpaces\Back-end\Caching\Kanbersky.Gumball\Kanbersky.Gumball.Business\bin\Debug\netcoreapp3.1\Kanbersky.Gumball.Entities.pdb
+D:\WorkSpaces\Back-end\Caching\Kanbersky.Gumball\Kanbersky.Gumball.Business\obj\Debug\netcoreapp3.1\Kanbersky.Gumball.Business.csproj.CoreCompileInputs.cache

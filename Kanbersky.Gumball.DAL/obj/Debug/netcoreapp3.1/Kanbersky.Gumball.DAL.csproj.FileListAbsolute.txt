@@ -1,0 +1,14 @@
+D:\WorkSpaces\Back-end\Caching\Kanbersky.Gumball\Kanbersky.Gumball.DAL\bin\Debug\netcoreapp3.1\Kanbersky.Gumball.DAL.deps.json
+D:\WorkSpaces\Back-end\Caching\Kanbersky.Gumball\Kanbersky.Gumball.DAL\bin\Debug\netcoreapp3.1\Kanbersky.Gumball.DAL.dll
+D:\WorkSpaces\Back-end\Caching\Kanbersky.Gumball\Kanbersky.Gumball.DAL\obj\Debug\netcoreapp3.1\Kanbersky.Gumball.DAL.AssemblyInfoInputs.cache
+D:\WorkSpaces\Back-end\Caching\Kanbersky.Gumball\Kanbersky.Gumball.DAL\obj\Debug\netcoreapp3.1\Kanbersky.Gumball.DAL.AssemblyInfo.cs
+D:\WorkSpaces\Back-end\Caching\Kanbersky.Gumball\Kanbersky.Gumball.DAL\bin\Debug\netcoreapp3.1\Kanbersky.Gumball.DAL.pdb
+D:\WorkSpaces\Back-end\Caching\Kanbersky.Gumball\Kanbersky.Gumball.DAL\bin\Debug\netcoreapp3.1\Kanbersky.Gumball.Core.dll
+D:\WorkSpaces\Back-end\Caching\Kanbersky.Gumball\Kanbersky.Gumball.DAL\bin\Debug\netcoreapp3.1\Kanbersky.Gumball.Entities.dll
+D:\WorkSpaces\Back-end\Caching\Kanbersky.Gumball\Kanbersky.Gumball.DAL\bin\Debug\netcoreapp3.1\Kanbersky.Gumball.Entities.pdb
+D:\WorkSpaces\Back-end\Caching\Kanbersky.Gumball\Kanbersky.Gumball.DAL\bin\Debug\netcoreapp3.1\Kanbersky.Gumball.Core.pdb
+D:\WorkSpaces\Back-end\Caching\Kanbersky.Gumball\Kanbersky.Gumball.DAL\obj\Debug\netcoreapp3.1\Kanbersky.Gumball.DAL.csprojAssemblyReference.cache
+D:\WorkSpaces\Back-end\Caching\Kanbersky.Gumball\Kanbersky.Gumball.DAL\obj\Debug\netcoreapp3.1\Kanbersky.Gumball.DAL.csproj.CopyComplete
+D:\WorkSpaces\Back-end\Caching\Kanbersky.Gumball\Kanbersky.Gumball.DAL\obj\Debug\netcoreapp3.1\Kanbersky.Gumball.DAL.dll
+D:\WorkSpaces\Back-end\Caching\Kanbersky.Gumball\Kanbersky.Gumball.DAL\obj\Debug\netcoreapp3.1\Kanbersky.Gumball.DAL.pdb
+D:\WorkSpaces\Back-end\Caching\Kanbersky.Gumball\Kanbersky.Gumball.DAL\obj\Debug\netcoreapp3.1\Kanbersky.Gumball.DAL.csproj.CoreCompileInputs.cache
